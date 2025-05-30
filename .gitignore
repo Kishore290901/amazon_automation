@@ -1,0 +1,6 @@
+# Do not track sensitive data
+credentials.json
+logs/
+__pycache__/
+*.pyc
+.env
